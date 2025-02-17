@@ -1,6 +1,6 @@
 # Associations between IL-6 and trajectories of depressive symptoms across the life course: Evidence from ALSPAC and UK Biobank cohorts
 
-**Include citation here when article published**
+Edmondson-Stait, A. J., Davyson, E., Shen, X., Adams, M. J., Khandaker, G. M., Miron, V. E., McIntosh, A. M., Lawrie, S. M., Kwong, A. S. F., & Whalley, H. C. (2025). Associations between IL-6 and trajectories of depressive symptoms across the life course: Evidence from ALSPAC and UK Biobank cohorts. European psychiatry : the journal of the Association of European Psychiatrists, 1–54. Advance online publication. https://doi.org/10.1192/j.eurpsy.2025.7
 
 ## Scripts to run analysis
 
